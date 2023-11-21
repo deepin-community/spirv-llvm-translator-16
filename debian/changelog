@@ -1,3 +1,9 @@
+spirv-llvm-translator-16 (16.0.0-4deepin1) unstable; urgency=medium
+
+  * feat gcc-13.
+
+ -- LiChengGang <lichenggang@uniontech.com>  Tue, 21 Nov 2023 16:03:02 +0800
+
 spirv-llvm-translator-16 (16.0.0-4) unstable; urgency=medium
 
   [ Gianfranco Costamagna ]
